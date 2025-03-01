@@ -11,3 +11,6 @@ Avaliação feita solicitando a criação de um aplicativo android que desafia o
 ## Autores
 
 - [@Milena Daflon](https://github.com/foxwire96)
+
+## Linguagem/IDE utilizada
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java&perline=3)](https://skillicons.dev)
